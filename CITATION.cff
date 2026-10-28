@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+title: "Universal Data Lake (UDL): an information-based picture of physical reality"
+type: software
+authors:
+  - family-names: Buchyn
+    given-names: Vitalii
+    email: visionregion@gmail.com
+date-released: 2026-10-28
+license: MIT
+keywords:
+  - quantum mechanics
+  - gravity
+  - entanglement
+  - Bell test
+  - analogue gravity
+  - information
