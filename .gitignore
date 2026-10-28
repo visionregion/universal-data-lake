@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+experiments/*/analysis/results/
+experiments/*/analysis/*.mp4
+# raw videos are large: keep them out of git, publish them elsewhere and link in run.json
+experiments/*/data/**/*.mp4
+experiments/*/data/**/*.mov
+.DS_Store
